@@ -140,6 +140,3 @@ cython_debug/
 # vscode config
 .vscode
 
-# angular app
-templates/*
-static/*
